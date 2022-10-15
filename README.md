@@ -39,7 +39,7 @@ ___
 <h2>Curiosidades sobre mim 👨‍💼: 
 
 - 🌵 Moro no interior da Bahia
-- 🏅 Sou esportista futebol
+- 🏅 Sou esportista
 - 🏕️ Amo conhecer coisas novas, lugares, culturas, etc...
 - 🎓 Sou Desenvolvedor Front-end 
 - 👨‍🎓 Sou aluno de Desenvolvimento Full Stack na Kenzie Academy
