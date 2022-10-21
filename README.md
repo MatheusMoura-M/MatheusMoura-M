@@ -8,8 +8,8 @@ ___
   
 <div align="center">
   <a href="https://github.com/MatheusMoura-M">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMoura-M&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=450px&title_color=1a32db&text_color=f71b1bcc&border_radius=1.3rem&border_color=1a32db&icon_color=1a32db&custom_title=Matheus+GitHub+Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoura-M&layout=compact&langs_count=7&theme=dark&title_color=1a32db&card_width=270px&border_radius=1rem&border_color=1a32db"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMoura-M&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=430px&title_color=1a32db&text_color=f71b1bcc&border_radius=1.3rem&border_color=1a32db&icon_color=1a32db&custom_title=Matheus+GitHub+Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoura-M&layout=compact&langs_count=7&theme=dark&title_color=1a32db&card_width=250px&border_radius=1rem&border_color=1a32db"/>
 </div><br>
   
 <div align="center"> 
