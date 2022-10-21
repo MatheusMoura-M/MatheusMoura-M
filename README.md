@@ -8,7 +8,7 @@ ___
   
 <div align="center">
   <a href="https://github.com/MatheusMoura-M">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMoura-M&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=450px&title_color=1a32db&text_color=e32121&border_radius=1.3rem&border_color=1a32db&icon_color=d16060&custom_title=Matheus+GitHub+Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMoura-M&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=450px&title_color=1a32db&text_color=f71b1bcc&border_radius=1.3rem&border_color=1a32db&icon_color=1a32db&custom_title=Matheus+GitHub+Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoura-M&layout=compact&langs_count=7&theme=dark&title_color=1a32db&card_width=270px&border_radius=1rem&border_color=1a32db"/>
 </div><br>
   
@@ -16,6 +16,8 @@ ___
   <a href = "mailto:matheus150101miranda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-miranda15" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusMoura-M&bg_color=111113&color=df3434&line=0d0b93&point=9e2215&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ___
 
