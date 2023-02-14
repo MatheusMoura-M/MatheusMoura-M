@@ -30,7 +30,9 @@ ___
   <img align="center" alt="Tech-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tech-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tech-NodeJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-  
+  <img align="center" alt="Tech-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Tech-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">  
+
 <!-- <img align="center" alt="Tech-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tech-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div> 
