@@ -17,8 +17,8 @@ ___
   <a href="https://www.linkedin.com/in/matheus-miranda15" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusMoura-M&bg_color=111113&color=df3434&line=0d0b93&point=9e2215&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusMoura-M&bg_color=111113&color=df3434&line=0d0b93&point=9e2215&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 ___
 
 <h2>Hard Skills 🧠:
