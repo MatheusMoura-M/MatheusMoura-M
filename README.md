@@ -44,8 +44,8 @@ ___
 - 🌵 Moro no interior da Bahia
 - 🏅 Sou esportista
 - 🏕️ Amo conhecer coisas novas, lugares, culturas, etc...
-- 🎓 Sou Desenvolvedor Front-end 
-- 👨‍🎓 Sou aluno de Desenvolvimento Full Stack na Kenzie Academy
+- 🎓 Sou Desenvolvedor Full Stack 
+- 👨‍🎓 Sou uma pessoa autodidata
 - 🎮 Amo jogos, GTA online principalmente
 
 ___
