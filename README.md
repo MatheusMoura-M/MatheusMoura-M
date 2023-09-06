@@ -26,6 +26,7 @@ ___
 <div style="display: inline_block"><br>
   <img align="center" alt="Tech-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Tech-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Tech-NextJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Tech-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tech-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tech-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -33,7 +34,6 @@ ___
   <img align="center" alt="Tech-NodeJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
   <img align="center" alt="Tech-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Tech-Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Tech-NextJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Tech-Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Tech-MongoDb" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   <!-- <img align="center" alt="Tech-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
