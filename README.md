@@ -30,20 +30,24 @@ ___
   <img align="center" alt="Tech-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tech-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tech-NodeJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Tech-NodeJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
   <img align="center" alt="Tech-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Tech-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">  
-
-<!-- <img align="center" alt="Tech-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+  <img align="center" alt="Tech-Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Tech-NextJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Tech-Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Tech-MongoDb" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <!-- <img align="center" alt="Tech-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div> 
 
 <h2>Studying in this moment 💻:
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tech-NextJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Tech-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Tech-Spring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Tech-Php" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Tech-Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Tech-NestJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg">
-  <img align="center" alt="Tech-Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Tech-MongoDb" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Tech-MongoDb" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg">
+  <img align="center" alt="Tech-Redis" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg">
 </div> 
 
 <h2>Curiosidades sobre mim 👨‍💼: 
