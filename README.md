@@ -61,6 +61,6 @@ ___
 
 ___
   
-![Snake animation](https://github.com/MatheusMoura-M/MatheusMoura-M/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake_gif](https://github.com/MatheusMoura-M/MatheusMoura-M/blob/output/github-contribution-grid-snake.svg) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0014a1&height=120&section=footer"/>
