@@ -36,6 +36,7 @@ ___
   <img align="center" alt="Tech-Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Tech-Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Tech-MongoDb" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Tech-NestJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg">
   <!-- <img align="center" alt="Tech-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div> 
 
@@ -43,11 +44,14 @@ ___
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Tech-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Tech-Spring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+<!--   <img align="center" alt="Tech-Spring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"> -->
   <img align="center" alt="Tech-Php" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Tech-Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Tech-NestJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg">
-  <img align="center" alt="Tech-Redis" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg">
+  <img align="center" alt="Tech-Angular" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Tech-.NetCore" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+  
+<!--   <img align="center" alt="Tech-Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"> -->
+  
+<!--   <img align="center" alt="Tech-Redis" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg"> -->
 </div> 
 
 <h2>Curiosidades sobre mim 👨‍💼: 
