@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0014a1&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=192893&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Moura;I'm+22+years+old;And+I'm+a+Full+Stack+Developer;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=192893&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Moura;I'm+24+years+old;And+I'm+a+Full+Stack+Developer;Be+welcome!+:%29)](https://git.io/typing-svg)
   
 ___
 
@@ -61,7 +61,6 @@ ___
 - 🏕️ Amo conhecer coisas novas, lugares, culturas, etc...
 - 🎓 Sou Desenvolvedor Full Stack 
 - 👨‍🎓 Sou uma pessoa autodidata
-- 🎮 Amo jogos, GTA online principalmente
 
 ___
   
